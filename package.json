@@ -1,0 +1,24 @@
+{
+  "name": "employeemanager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DEAD-STOP/12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DEAD-STOP/12/issues"
+  },
+  "homepage": "https://github.com/DEAD-STOP/12#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^9.1.1",
+    "mysql2": "^2.3.3"
+  }
+}
